@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Supermarket.API", "Supermarket.API\Supermarket.API.csproj", "{DEBB0B4C-3DAD-4401-AB43-10D18B0BD465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseDeDatos", "BaseDeDatos\BaseDeDatos.csproj", "{E8BD5FC7-215B-463E-B7BB-218B1E00E256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEBB0B4C-3DAD-4401-AB43-10D18B0BD465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBB0B4C-3DAD-4401-AB43-10D18B0BD465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBB0B4C-3DAD-4401-AB43-10D18B0BD465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBB0B4C-3DAD-4401-AB43-10D18B0BD465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8BD5FC7-215B-463E-B7BB-218B1E00E256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BD5FC7-215B-463E-B7BB-218B1E00E256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BD5FC7-215B-463E-B7BB-218B1E00E256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BD5FC7-215B-463E-B7BB-218B1E00E256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F90FB1A0-CF3C-4BB3-A620-BE810338F163}
+	EndGlobalSection
+EndGlobal

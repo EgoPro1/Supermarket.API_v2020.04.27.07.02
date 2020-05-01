@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{DEBB0B4C-3DAD-4401-AB43-10D18B0BD465}|Default">
+  <MonoDevelop.Ide.ItemProperties.Supermarket.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Supermarket.API/Domain/Repositories/ICategoryRepository.cs">
+    <Files>
+      <File FileName="Supermarket.API/Persistence/Repositories/UnitOfWork.cs" Line="21" Column="6" />
+      <File FileName="Supermarket.API/Domain/Repositories/IUnitOfWork.cs" />
+      <File FileName="Supermarket.API/Services/CategoryService.cs" Line="28" Column="10" />
+      <File FileName="Supermarket.API/Controllers/CategoriesController.cs" Line="44" Column="41" />
+      <File FileName="Supermarket.API/Startup.cs" />
+      <File FileName="Supermarket.API/Persistence/Repositories/CategoryRepository.cs" Line="1" Column="1" />
+      <File FileName="Supermarket.API/Domain/Repositories/ICategoryRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Supermarket.API" expanded="True">
+            <Node name="Supermarket.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Domain" expanded="True">
+                <Node name="Repositories" expanded="True">
+                  <Node name="ICategoryRepository.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Persistence" expanded="True">
+                <Node name="Repositories" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
